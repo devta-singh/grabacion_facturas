@@ -1,0 +1,51 @@
+
+INICIO
+CARACTERÍSTICAS
+PRECIO
+CONTACTO
+BLOG
+USUARIOS
+POLÍTICA DE PRIVACIDAD
+Factura2.com cumple con el nuevo Reglamento General de Protección de Datos (RGPD) 2016/679 del Parlamento Europeo y del Consejo como encargado del tratamiento de datos. El responsable es la sociedad NetWork Place SL, con CIF: B40203689 y domicilio social en Avda.Pinar, 31, Alcorcón, Madrid 28925. Inscrita en el registro mercantil de Segovia, tomo 185, sección 8ª, folio 170, hoja SG-4118, inscripción 1ª. A continuación describimos la información que tratamos para proporcionar los servicios de Factura2.com.
+
+¿QUÉ TIPO DE INFORMACIÓN RECOPILAMOS?
+Fundamentalmente la información que recabamos de nuestros usuarios es la que ellos incluyen en nuestro software y que resulta imprescindible para poder utilizar nuestros servicios de facturación, es decir, los datos de las facturas, clientes, proveedores y demás que son utilizados para poder gestionar el sistema de facturación de cada cliente. Esta información es almacenada en nuestros servidores o en los de nuestro proveedor de servidores cloud.
+
+Además de esta información, tambien recogemos datos a través del uso de cookies, esta información es usada para poder analizar nuestro tráfico y también para poder identificar al usuario que usa nuestro software y de esta forma darle acceso al mismo. Puede ver más información en nuestra política de cookies
+
+¿CÓMO UTILIZAMOS ESA INFORMACIÓN?
+La información es usada para facilitar a nuestros usuarios el correcto uso del software, por ejemplo para poder emitir y controlar sus facturas, para ver sus estadísticas de ventas y compras, también usamos estos datos cuando uno de nuestros usuarios envía una factura a un cliente o cuando imprime una factura, entre otros casos.
+
+¿CÓMO SE COMPARTE ESA INFORMACIÓN?
+Esta información no se comparte con nadie. Solo se compartirán con terceros en caso de haber algún requisito legal que así lo requiera o para detectar y prevenir posibles incidencias o problemas técnicos y/o de seguridad y siempre y cuando fuese totalmente imprescindible para poder solventarlos
+
+¿ESTA LA INFORMACIÓN A SALVO?
+Para Factura2 la seguridad es de máxima importancia, por esta razón se almacena la información en servidores de proveedores de primer nivel mundial que cumplen con los mayores estándares de seguridad.
+Además, usamos el protocolo SSL para la comunicación de nuestro software con los usuarios, lo que hace que la información viaje encriptada entre nuestros servidores y nuestros usuarios.
+Por otro lado, limitamos al máximo el acceso a la información a nuestro personal, limitándose únicamente a situaciones que requieran acciones técnicas para resolver incidencias o bien para el soporte ofrecido a nuestros usuarios ante determinadas dudas con el uso del software
+
+¿CÓMO PUEDO EJERCER MIS DERECHOS EN VIRTUD DEL RGPD?
+De conformidad con el Reglamento General de Protección de Datos, tienes derecho a acceder a tus datos, rectificarlos y suprimirlos. Puedes ejercer este derecho mediante el acceso a tu cuenta con tu email y contraseña y desde allí modificar o eliminar toda la información que consideres necesaria.
+Igualmente puedes eliminar la totalidad de tu información mediante el botón 'Darme de baja' que está en el menú 'Configuración/Mis datos' de tu usuario.
+
+¿CUÁNTO TIEMPO SE RETIENEN LOS DATOS?
+La información se mantiene en nuestros servidores hasta que un usuario decide eliminarla, puede eliminar información concreta, como por ejemplo determinadas facturas, gastos, etc, o bien eliminar el 100% de su información como se explica en el punto anterior, con el uso del botón 'Darme de baja'
+
+¿CÓMO RESPONDEMOS A REQUERIMIENTOS LEGALES?
+Accedemos a tu información, la preservamos y la compartimos con organismos reguladores, autoridades policiales u otras partes en respuesta a un requerimiento legal si creemos de buena fe que la legislación nos obliga a hacerlo. También podemos actuar en respuesta a requerimientos legales si creemos de buena fe que la legislación de una determinada jurisdicción exige dicha respuesta, afecta a los usuarios de dicha jurisdicción y resulta coherente con estándares reconocidos internacionalmente.
+
+¿TE AVISAREMOS SI CAMBIA ESTA POLÍTICA?
+Te notificaremos antes de realizar cambios en esta política para que puedas revisar las modificaciones y decidir si quieres seguir usando nuestros Productos.
+
+¿ENCARGADO DEL TRATAMIENTO?
+El delegado para el tratamiento de datos es Juan José Dópido López. Puedes contactar con él directamente en info@factura2.com, especificando en el asunto de tu email "Delegado de protección de datos"
+
+SOBRE NOSOTROS
+Factura2.com ha sido desarrollado por la boutique de Software y consultora NetWork Place, nuestra pasión es la tecnología entendida de una forma práctica y funcional, y esto es lo que tratamos de plasmar en todos y cada uno de nuestros desarrollos. Esperamos que disfrutéis de nuestro trabajo.
+Visita nuestra web
+
+INFORMACIÓN DE CONTACTO
+ Avenida Pinar, nº 31
+Alcorcón, Madrid 28925
+ info@factura2.com
+2011 - <%=Date.Now.Year%> © Copyright NetWork Place. All rights Reserved.
